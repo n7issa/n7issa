@@ -16,7 +16,3 @@ I'm always open to collaborating on autonomous driving, robotics, or computer vi
 
 ## ⚡ Fun fact
 When I'm not working on robotics, I love hiking through nature trails.
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
